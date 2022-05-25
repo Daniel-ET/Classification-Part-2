@@ -71,6 +71,7 @@ The validation accuracy for k=73 is 0.466666
 ![image](https://user-images.githubusercontent.com/96924468/170332129-b16bc406-43e0-442b-9646-31444f9c5235.png)
 
 validation accuracy vs k
+
 ![image](https://user-images.githubusercontent.com/96924468/170332432-a9b0dd91-ae80-476e-89b3-9b36fe29071c.png)
 
 
