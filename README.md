@@ -34,4 +34,47 @@ The training accuracy for k=19 is 0.81333.
 The validation accuracy for k=19 is 0.8
 ![image](https://user-images.githubusercontent.com/96924468/170329905-36452fab-ad57-45b1-a01a-c1ba35a6b0d4.png)
 
+The training acccuracy for k=25 is 0.826666.
+The validation accuracy for k=25 is 0.84
+![image](https://user-images.githubusercontent.com/96924468/170330459-156815cb-fbd0-4311-aa50-5a52bd39afe6.png)
+
+The training accuracy for k=31 is 0.8.
+The validation accuracy for k=31 is 0.826666
+![image](https://user-images.githubusercontent.com/96924468/170330661-a050740d-edb8-432e-8d32-fea4532aca12.png)
+
+The training accuracy for k=37 is 0.786666.
+The validation accuracy for k=37 is 0.813333
+![image](https://user-images.githubusercontent.com/96924468/170330836-732e4537-a637-4048-a1a9-4e2c96d489c4.png)
+
+The training accuracy for k=43 is 0.73333.
+The validation accuracy k=43 is 0.76
+![image](https://user-images.githubusercontent.com/96924468/170331020-9188da23-ac3e-474f-874d-71d6eec14470.png)
+
+The training accuracy for k=49 is 0.706666.
+The validation accuracy for k=49 
+![image](https://user-images.githubusercontent.com/96924468/170331215-be09d5ef-0f79-49d7-ab50-1b2dd0f5fec5.png)
+
+The training accuracy for k=55 is 0.706666.
+The validation accuracy for k=55 is 0.7733333
+![image](https://user-images.githubusercontent.com/96924468/170331398-caa807b9-fb3e-4c23-9cfc-d4d75225ec79.png)
+
+The training accuracy for k=61 is 0.62666.
+The validation accuracy for k=61 is 0.70666
+![image](https://user-images.githubusercontent.com/96924468/170331564-718abce4-8c18-480a-915b-6cd9cfae9624.png)
+
+The training accuracy for k=67 is 0.6.
+The validation accuracy for k=67 is 0.69333
+![image](https://user-images.githubusercontent.com/96924468/170331852-82e45694-282a-459c-b95f-e573b5f76195.png)
+
+The training accuracy for k=73 is 0.493333.
+The validation accuracy for k=73 is 0.466666
+![image](https://user-images.githubusercontent.com/96924468/170332129-b16bc406-43e0-442b-9646-31444f9c5235.png)
+
+validation accuracy vs k
+![image](https://user-images.githubusercontent.com/96924468/170332432-a9b0dd91-ae80-476e-89b3-9b36fe29071c.png)
+
+
+
+
+
 
