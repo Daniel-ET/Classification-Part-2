@@ -48,10 +48,12 @@ The validation accuracy for k=37 is 0.813333
 
 The training accuracy for k=43 is 0.73333.
 The validation accuracy k=43 is 0.76
+
 ![image](https://user-images.githubusercontent.com/96924468/170331020-9188da23-ac3e-474f-874d-71d6eec14470.png)
 
 The training accuracy for k=49 is 0.706666.
 The validation accuracy for k=49 
+
 ![image](https://user-images.githubusercontent.com/96924468/170331215-be09d5ef-0f79-49d7-ab50-1b2dd0f5fec5.png)
 
 The training accuracy for k=55 is 0.706666.
