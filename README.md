@@ -76,6 +76,13 @@ validation accuracy vs k
 
 ![image](https://user-images.githubusercontent.com/96924468/170332432-a9b0dd91-ae80-476e-89b3-9b36fe29071c.png)
 
+# Logistic Regression Linear Classifier
+
+The training accuracy of the logistic classifier is 0.8
+![image](https://user-images.githubusercontent.com/96924468/170337332-2c2cc55f-482b-4158-80e3-0048179d161a.png)
+
+The validation accuracy of the logistic classifier is 0.82666
+![image](https://user-images.githubusercontent.com/96924468/170337505-c9d9b2d4-4cf8-4216-9c8c-8971dcf2bf95.png)
 
 
 
