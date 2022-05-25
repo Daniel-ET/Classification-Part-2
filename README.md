@@ -19,6 +19,7 @@ The k nearest neighbours (kNN) algorithm is an instance-based method that assign
 
 The training accuracy for k=1 is 0.94666.
 The validation accuracy for k=1 is 0.68
+
 ![image](https://user-images.githubusercontent.com/96924468/170328970-5c0d86aa-b58a-48b7-93bf-455a8fe0642f.png)
 
 The training accuracy for k=7 is 0.813333.
