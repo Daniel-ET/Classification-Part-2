@@ -86,7 +86,21 @@ The validation accuracy of the logistic classifier is 0.82666
 
 ![image](https://user-images.githubusercontent.com/96924468/170337505-c9d9b2d4-4cf8-4216-9c8c-8971dcf2bf95.png)
 
+# The Bayesian Perspective
 
+Logistic regression and kNN can be seen as two classification methods that build posterior probabilities and proceed to assign samples to the class with the **highest posterior probability**.
 
+Training accuracy: 0.90909.
+Validation accuracy: 0.87272727
+
+![image](https://user-images.githubusercontent.com/96924468/170339163-9349467f-e60c-4e6b-ae0a-3395e3860659.png)
+
+Validation accuracy: 0.76
+
+![image](https://user-images.githubusercontent.com/96924468/170339522-c08fc8f4-1044-494b-a9e7-602a0df8e8de.png)
+
+Validation accuracy: 0.77333
+
+![image](https://user-images.githubusercontent.com/96924468/170339624-edb74323-8c86-4bfd-84d7-e96a8cfc8b84.png)
 
 
